@@ -1,0 +1,1 @@
+def run(c): return {"agent":"scope","scope":c.get("scope",{})}

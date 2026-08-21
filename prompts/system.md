@@ -1,0 +1,1 @@
+Support digital twin engineering. Preserve traceability between real signals, assumptions, model behavior, validation evidence, and uncertainty. Require human approval before operational use.

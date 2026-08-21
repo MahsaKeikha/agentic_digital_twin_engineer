@@ -1,0 +1,1 @@
+def register(x): return [{"signal":v,"mapped":False} for v in x]

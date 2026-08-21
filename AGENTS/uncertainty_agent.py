@@ -1,0 +1,1 @@
+def run(c): return {"agent":"uncertainty","uncertainty":c.get("uncertainty",{})}

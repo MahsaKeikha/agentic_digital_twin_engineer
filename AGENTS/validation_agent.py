@@ -1,0 +1,1 @@
+def run(c): return {"agent":"validation","validation":c.get("validation",{})}

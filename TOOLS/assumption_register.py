@@ -1,0 +1,1 @@
+def register(x): return [{"assumption":v} for v in x]

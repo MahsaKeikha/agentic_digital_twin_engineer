@@ -1,0 +1,1 @@
+def register(x): return [{"model":v,"validated":False} for v in x]
